@@ -9,7 +9,7 @@ Tool to grab x509 certificate(s) from a remote host. By default the certificates
 ~~~
 Usage: ./certgrabber [Options] host:port
 
-Grabs x509 certificate(s) from a remote host
+Grabs x509 certificate(s) from a remote host, format will default to PEM. 
   v1.0.0 Mike Cromwell 2022
 
 Options:
