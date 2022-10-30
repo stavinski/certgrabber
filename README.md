@@ -4,6 +4,10 @@
 
 Tool to grab x509 certificate(s) from a remote host. By default the certificates will be returned in PEM format but this can be overrwridden to use DER using the `--der` flag.
 
+## Releases
+
+Updated versions are automatically built and released, please see https://github.com/stavinski/certgrabber/releases.
+
 ## Usage
 
 ~~~
