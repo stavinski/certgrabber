@@ -16,7 +16,7 @@ import (
 )
 
 const (
-	VERSION = "v1.0.1"
+	VERSION = "v1.0.2"
 )
 
 // holds the args supplied to the program
