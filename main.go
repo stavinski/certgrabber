@@ -15,9 +15,7 @@ import (
 	"time"
 )
 
-const (
-	VERSION = "v1.0.3"
-)
+var version = "X.X.X" // populated by build script
 
 // holds the args supplied to the program
 type commandArgs struct {
@@ -33,7 +31,7 @@ func usage() {
 	usage += `
 
 Grabs x509 certificate(s) from a remote host, format will default to PEM. 
-  ` + VERSION + ` Mike Cromwell 2022
+  v` + version + ` Mike Cromwell 2022
 
 Options:
   -h, --help    show this help message and exit
