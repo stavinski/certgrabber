@@ -31,7 +31,7 @@ func usage() {
 	usage += `
 
 Grabs x509 certificate(s) from a remote host, format will default to PEM. 
-  v` + version + ` Mike Cromwell 2022
+  v` + version + ` Mike Nicholls 2022
 
 Options:
   -h, --help    show this help message and exit

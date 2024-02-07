@@ -14,7 +14,7 @@ Updated versions are automatically built and released, please see https://github
 Usage: ./certgrabber [Options] host:port
 
 Grabs x509 certificate(s) from a remote host, format will default to PEM. 
-  v1.0.0 Mike Cromwell 2022
+  v1.0.0 Mike Nicholls 2022
 
 Options:
   -h, --help    show this help message and exit
